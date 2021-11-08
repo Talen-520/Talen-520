@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Talen-520
-- 👀 I’m interested in coding and gaming 
+- 👋 Hi, I’m Talen
+- 👀 I’m interested in coding,gaming and trading ...
 - 🌱 I’m currently learning CS related course in Queens college
 - 💞️ I’m looking to internship in IT industry ...
 - 📫 Email: tao727188712@gmail.com
