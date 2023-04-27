@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tao
 - 👀 I’m interested in programming, strategy Games, and trading ...
-- 🌱 I’m currently learning CS related course in Queens college
-- 💞️ I’m looking to internship in IT industry ...
+- 🌱 I’m Majoring Computer Science in Queens college
+- 💞️ I’m looking to internship in Software Engineer 
 - 📫 Email: tao727188712@gmail.com
 
 <!---
