@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Tao, Working towards becoming a full-stack software engineer
+- 👋 Hi, I’m Tao, Working towards becoming a software engineer
 - 👀 I’m interested in programming, strategy Games, and trading ...
 - 🌱 I’m Majoring Computer Science in Queens college
-- 💞️ I’m looking to internship in Software Engineer 
+- 💞️ I’m looking to job in Software Engineer 
 - 📫 Email: tao727188712@gmail.com
 
 <!---
