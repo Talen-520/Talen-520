@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Tao, Working towards becoming a software engineer
+- 👋 Hi, I’m Tao, looking for NEW GRAD role as a software engineer 
 - 👀 I’m interested in programming, strategy Games, and trading ...
-- 🌱 I’m Majoring Computer Science in Queens college
-- 💞️ I’m looking to job in Software Engineer 
+- 🌱 I’m Majoring Computer Science in Queens college till Dec 2023
 - 📫 Email: tao727188712@gmail.com
-
+- https://www.techtaohu.com/
 <!---
 Talen-520/Talen-520 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
