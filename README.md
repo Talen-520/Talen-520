@@ -16,3 +16,7 @@ https://www.coursera.org/account/accomplishments/verify/PQ6J2EC47MW8
 In progress
 
 https://www.coursera.org/professional-certificates/meta-back-end-developer?
+
+Working project:
+
+https://github.com/Talen-520/Django_Project
