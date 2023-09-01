@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tao, looking for NEW GRAD role as a software engineer 
+- 👋 Hi, I’m Tao, looking for New Grad/Entry Level/Junior role as a software engineer, backend/machine learning prefered 
 - 👀 I’m interested in programming, strategy Games, and trading ...
 - 🌱 I’m Majoring Computer Science in Queens college till Dec 2023
 - 📫 Email: tao727188712@gmail.com
