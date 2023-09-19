@@ -7,16 +7,19 @@
 Talen-520/Talen-520 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-certification:
+Certification:
 
 https://www.coursera.org/account/accomplishments/professional-cert/JN6YURYEHD25
 https://www.coursera.org/account/accomplishments/verify/PQ6J2EC47MW8
 
-In progress
+Certification In Progress
 
 https://www.coursera.org/professional-certificates/meta-back-end-developer?
 
 Working project:
 
 https://github.com/Talen-520/Django_Project
+
+LittleLemon on EC2:
+
+http://littlelemon.techtaohu.com/
