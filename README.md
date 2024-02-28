@@ -25,6 +25,7 @@ https://www.credly.com/badges/2366cc64-675f-4f23-a45e-ede187918c75/linked_in_pro
 https://coursera.org/share/31a5c18b7ea9742b8dfa19a19d4768e6
 
 
-LittleLemon on EC2:
-http://fullstack.techtaohu.com/reservations/
-http://littlelemon.techtaohu.com/
+Fullstack project:
+
+[http://fullstack.techtaohu.com/
+](http://fullstack.techtaohu.com)
