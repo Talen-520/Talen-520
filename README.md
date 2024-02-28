@@ -17,36 +17,12 @@ DeepLearning.AI TensorFlow Developer:
 
 https://www.coursera.org/account/accomplishments/professional-cert/JN6YURYEHD25
 
-Meta Version Control:
 
-https://www.coursera.org/account/accomplishments/records/ZV7QH58XJ7SN
+Meta Back-End Developer Certificate:
 
-Meta Django Web Framework:
+https://www.credly.com/badges/2366cc64-675f-4f23-a45e-ede187918c75/linked_in_profile
 
-https://www.coursera.org/account/accomplishments/records/2YNLKESHXN29
-
-Meta Introduction to Back-End Development:
-
-https://www.coursera.org/account/accomplishments/records/3CEK6KYG2UUF
-
-Meta APIs:
-
-https://www.coursera.org/account/accomplishments/records/6HW4UKVAL4JB
-
-Meta Programming in Python:
-
-https://www.coursera.org/account/accomplishments/records/PQ6J2EC47MW8
-
-Meta Introduction to Databases for Back-End Development:
-
-https://www.coursera.org/account/accomplishments/records/VCTSZUH8MKC7
-
-
-
-Meta Back-End Developer Professional CertificateIn Progress
-
-
-https://www.coursera.org/professional-certificates/meta-back-end-developer?
+https://coursera.org/share/31a5c18b7ea9742b8dfa19a19d4768e6
 
 
 LittleLemon on EC2:
