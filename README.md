@@ -5,11 +5,6 @@ Talen-520/Talen-520 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-video intro
-
-https://github.com/Talen-520/Talen-520/assets/63370853/9981236b-7bf3-4bd1-9a2e-0e0552cd6234
-
-
 
 Certification:
 
@@ -24,6 +19,9 @@ https://www.credly.com/badges/2366cc64-675f-4f23-a45e-ede187918c75/linked_in_pro
 
 https://coursera.org/share/31a5c18b7ea9742b8dfa19a19d4768e6
 
+Amazon Cloud partioner:
+
+https://www.credly.com/badges/4b3c22ba-439c-41ee-95cd-7b93dc72e519/linked_in_profile
 
 Fullstack project:
 
