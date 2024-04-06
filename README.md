@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 - 👋 Hi, I’m Tao, looking for New Grad/Entry Level/Junior role as a software engineer, backend and machine learning prefered 
 
 <!---
