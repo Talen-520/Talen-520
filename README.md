@@ -8,7 +8,8 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>👋 Hi, I’m Tao, looking for New Grad role as a software engineer, My tech specializing in backend development. </p>
+    <p>👋 Hi, I’m Tao, looking for New Grad role as a software engineer, My tech specializing in backend development.I'm proficent in Python,Java, C++, focusing on React and Django
+for frontend and backend development, Tensorflow and Scikit-learn as major Machine Learning pipline check out my <a href = "https://techtaohu.com/">Website</a> for more info </p>
 </div>
 
 <!---
@@ -17,9 +18,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Talen-520&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talen-520&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Talen-520&theme=dark&background=000000" alt="GitHub Streak"  height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talen-520&layout=compact&theme=vision-friendly-dark" alt="Top Langs" width="400" height="200" />
+  </a>
 
 
 
