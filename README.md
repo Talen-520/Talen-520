@@ -8,8 +8,8 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>👋 Hi, I’m Tao, looking for New Grad role as a software engineer, My tech specializing in backend development.I'm proficent in Python,Java, C++, focusing on React and Django
-for frontend and backend development, Tensorflow and Scikit-learn as major Machine Learning pipline check out my <a href = "https://techtaohu.com/">Website</a> for more info </p>
+    <p>👋 Hi, I’m Tao, looking for New Grad role as a software engineer, My tech specializing in backend development.check out my <a href = "https://techtaohu.com/">Website</a> for more info </p>
+    <p> Python | C++ | Next.js </p>
 </div>
 
 <!---
