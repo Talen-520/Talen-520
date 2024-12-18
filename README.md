@@ -20,7 +20,6 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Talen-520&theme=dark&background=000000" alt="GitHub Streak"  height="200" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talen-520&layout=compact&theme=vision-friendly-dark" alt="Top Langs" width="400" height="200" />
   </a>
 
