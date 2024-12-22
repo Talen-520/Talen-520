@@ -1,17 +1,18 @@
 
 
 <div align="center">
-    <p>👋 Hi, I’m Tao, looking for New Grad role as a software engineer, My tech specializing in backend development.check out my <a href = "https://techtaohu.com/">Website</a> for more info </p>
+    <p> looking for New Grad role as a software engineer, My tech specializing in backend development.check out my <a href = "https://techtaohu.com/">Website</a> for more info </p>
     <p> Python | C++ | Typescript </p>
     <p>Django | Flask | Tensorflow | Next.js </p>
+    <p></p>
 </div>
 
 
+<div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talen-520&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://git.io/streak-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talen-520&layout=compact&theme=vision-friendly-dark" alt="Top Langs" width="400" height="200" />
-  </a>
+
+</div>
 <div align="center">
   
 
