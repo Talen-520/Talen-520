@@ -1,23 +1,19 @@
 
 
 <div align="center">
-    <h2>🚀 About Me</h2>
     <p>👋 Hi, I’m Tao, looking for New Grad role as a software engineer, My tech specializing in backend development.check out my <a href = "https://techtaohu.com/">Website</a> for more info </p>
-    <p> Python | C++ | Next.js </p>
+    <p> Python | C++ | Typescript </p>
+    <p>Django | Flask | Tensorflow | Next.js </p>
 </div>
 
-<!---
-Talen-520/Talen-520 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talen-520&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talen-520&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://git.io/streak-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talen-520&layout=compact&theme=vision-friendly-dark" alt="Top Langs" width="400" height="200" />
   </a>
-</div>
+<div align="center">
+  
 
 
 
