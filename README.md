@@ -20,9 +20,8 @@
 
 
 
-
-
-[website](https://techtaohu.com/)
+Project I'm working on
+[Stock Agent](https://agent.techtaohu.com/)
 
 
 Certification:
