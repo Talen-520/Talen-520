@@ -1,9 +1,9 @@
 
 
 <div align="center">
-    <p> looking for New Grad role as a software engineer, My tech specializing in backend development.check out my <a href = "https://techtaohu.com/">Website</a> for more info </p>
+    <p> Looking new SWE opportunities</p>
     <p> Python | C++ | Typescript </p>
-    <p>Django | Flask | Tensorflow | Next.js </p>
+    <p>Django | FASTAPI | Tensorflow | Next.js | Ollama </p>
     <p></p>
 </div>
 
@@ -20,7 +20,7 @@
 
 
 
-Project I'm working on
+Project I'm working on (Demo)
 [Stock Agent](https://agent.techtaohu.com/)
 
 
