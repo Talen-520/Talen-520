@@ -14,7 +14,7 @@
 
 ---
 
-### 🔧 Featured Projects
+### Featured Projects
 
 | Icon | Repo | Type | Lang | About | Note |
 |------|------|------|------|-------|---------|
@@ -27,7 +27,13 @@
 
 
 ---
-
+### Certification
+| Repo | Type | 
+|------|------|
+| [DeepLearning.AI TensorFlow Developer](https://www.coursera.org/account/accomplishments/professional-cert/JN6YURYEHD25) | Machine Learning |
+| [Meta Back-End Developer](https://www.credly.com/badges/2366cc64-675f-4f23-a45e-ede187918c75/linked_in_profile)| Backend Developerment | 
+|[Amazon Cloud partioner](https://www.credly.com/badges/4b3c22ba-439c-41ee-95cd-7b93dc72e519/linked_in_profile)| Cloud | 
+---
 ### 🚀 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tao-hu-ny/)  
