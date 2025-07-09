@@ -18,12 +18,12 @@
 
 | Icon | Repo | Type | Lang | About | Note |
 |------|------|------|------|-------|---------|
-| 🔐 | [**StockAgent**](https://agent.techtaohu.com/) | Fullstack App | Nextjs | An AI Agent for investor | Private |
+| 🔐 | [**StockAgent**](https://www.rabrisai.com/) | Fullstack App | Nextjs | An AI Agent for investor | Private |
 | 🌐 | [**StockAgent openSource**](https://github.com/Talen-520/StockAgent) | AI Agent | Python | A collaborative language learning app built with React Native and Firebase |  |
-| 🌐 | [**TechTaoHu**](https://github.com/yourusername/TechTaoHu) | Website | React | Personal portfolio site built with Vite |  |
+| 🌐 | [**TechTaoHu**](https://dev.rabrisai.com/) | Website | React | Personal portfolio site built with Vite |  |
 | 🌐 | [**Myocardial infarction complications Reasearch**](https://www.kaggle.com/code/taohu520/myocardial-infarction-complications) | Machine Learning | Python | Predictive Modeling of Heart Disease Complications |  |
-| 🌐 | [**Little Lemon Booking**](http://fullstack.techtaohu.com/) | Web App | Django | Online restaurant reservation system with conflict resolution. |  |
-| 🌐 | [**Tensorflow Note**](http://fullstack.techtaohu.com/) | study Note | Tensorflow | My personal TensorFlow study note |  |
+| 🌐 | [**Little Lemon Booking**](https://github.com/Talen-520/littlelemon) | Web App | Django | Online restaurant reservation system with conflict resolution. |  |
+| 🌐 | [**Tensorflow Note**](https://github.com/Talen-520/TensorFlow-MachineLearning-ComputerVision/tree/main/tensorflow-1-public) | study Note | Tensorflow | My personal TensorFlow study note |  |
 
 
 ---
