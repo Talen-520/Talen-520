@@ -2,7 +2,7 @@
 <div align="center">
     <p> Looking Junior SWE opportunities</p>
     <p> Python | C++ | Typescript </p>
-    <p>Django | FASTAPI | Tensorflow | Next.js | Ollama </p>
+    <p>Django | FASTAPI | Tensorflow | Next.js | Ollama | Google Agent ADK | React</p>
 </div>
 
 ---
