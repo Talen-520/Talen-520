@@ -9,7 +9,7 @@
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Talen-520&show_icons=true&theme=default&count_private=true"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=Talen-520&show_icons=true&theme=default&include_all_commits=true&count_private=true"  />
 </p>
 
 ---
