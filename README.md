@@ -19,6 +19,7 @@
 | Icon | Repo | Type | Lang | About | Note |
 |------|------|------|------|-------|---------|
 | 🔐 | [**StockAgent**](https://www.rabrisai.com/) | Fullstack App | Nextjs | An AI Agent for investor | Private |
+| 🌐 | [**Qdrant-Local-RAG**](https://github.com/Talen-520/Qdrant-Local-RAG) | Fullstack App | Python/Typescript | RAG Web App powered by Qdrant |  |
 | 🌐 | [**StockAgent openSource**](https://github.com/Talen-520/StockAgent) | AI Agent | Python | A collaborative language learning app built with React Native and Firebase |  |
 | 🌐 | [**TechTaoHu**](https://dev.rabrisai.com/) | Website | React | Personal portfolio site built with Vite |  |
 | 🌐 | [**Myocardial infarction complications Reasearch**](https://www.kaggle.com/code/taohu520/myocardial-infarction-complications) | Machine Learning | Python | Predictive Modeling of Heart Disease Complications |  |
