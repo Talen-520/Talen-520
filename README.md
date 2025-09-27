@@ -15,16 +15,17 @@
 ---
 
 ### Featured Projects
-
-| Icon | Repo | Type | Lang | About | Note |
+https://github.com/Talen-520/Muti-Agent-Finance-System
+| Icon | Repo | Type | Language | About | Note |
 |------|------|------|------|-------|---------|
-| 🔐 | [**StockAgent**](https://www.rabrisai.com/) | Fullstack App | Nextjs | An AI Agent for investor | Private |
-| 🌐 | [**Qdrant-Local-RAG**](https://github.com/Talen-520/Qdrant-Local-RAG) | Fullstack App | Python/Typescript | RAG Web App powered by Qdrant |  |
-| 🌐 | [**StockAgent openSource**](https://github.com/Talen-520/StockAgent) | AI Agent | Python | A collaborative language learning app built with React Native and Firebase |  |
-| 🌐 | [**TechTaoHu**](https://dev.rabrisai.com/) | Website | React | Personal portfolio site built with Vite |  |
+| 🔐 | [**StockAgent**](https://www.rabrisai.com/) | Fullstack App | Python/TS | An AI Agent for investor | Private |
+| 🌐 | [**Qdrant-Local-RAG**](https://github.com/Talen-520/Qdrant-Local-RAG) | Python/TS | Python/Typescript | RAG Web App powered by Qdrant |  |
+| 🌐 | [**Muti-Agent-Finance-System**](https://github.com/Talen-520/Muti-Agent-Finance-System) | Hackathon project | Python | Google Agent Development Kit Hackathon |  |
+| 🌐 | [**StockAgent openSource**](https://github.com/Talen-520/StockAgent) | Agent Backend | Python | A collaborative language learning app built with React Native and Firebase |  |
+| 🌐 | [**TechTaoHu**](https://dev.rabrisai.com/) | Web | JS | Personal portfolio site built with Vite |  |
 | 🌐 | [**Myocardial infarction complications Reasearch**](https://www.kaggle.com/code/taohu520/myocardial-infarction-complications) | Machine Learning | Python | Predictive Modeling of Heart Disease Complications |  |
-| 🌐 | [**Little Lemon Booking**](https://github.com/Talen-520/littlelemon) | Web App | Django | Online restaurant reservation system with conflict resolution. |  |
-| 🌐 | [**Tensorflow Note**](https://github.com/Talen-520/TensorFlow-MachineLearning-ComputerVision/tree/main/tensorflow-1-public) | study Note | Tensorflow | My personal TensorFlow study note |  |
+| 🌐 | [**Little Lemon Booking**](https://github.com/Talen-520/littlelemon) | Web App | Python | Online restaurant reservation system with conflict resolution. |  |
+| 🌐 | [**Tensorflow Note**](https://github.com/Talen-520/TensorFlow-MachineLearning-ComputerVision/tree/main/tensorflow-1-public) | study Note | Python | My personal TensorFlow study note |  |
 
 
 ---
