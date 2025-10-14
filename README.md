@@ -15,7 +15,6 @@
 ---
 
 ### Featured Projects
-https://github.com/Talen-520/Muti-Agent-Finance-System
 | Icon | Repo | Type | Language | About | Note |
 |------|------|------|------|-------|---------|
 | 🔐 | [**StockAgent**](https://www.rabrisai.com/) | Fullstack App | Python/TS | An AI Agent for investor | Private |
