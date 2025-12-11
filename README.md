@@ -5,13 +5,12 @@
     <p>Django | FASTAPI | Tensorflow | Next.js | Ollama | Google Agent ADK | React</p>
 </div>
 
----
 
 <p align="center">
   <img src="https://github-profile-trophies.vercel.app/?username=Talen-520&theme=flat&no-frame=true&column=7" alt="GitHub Trophies" />
-  <img src="https://streak-stats.demolab.com?user=Talen-520&theme=default&mode=weekly" alt="GitHub Streak" />
 </p>
----
+
+
 
 ### Featured Projects
 | Icon | Repo | Type | Language | About | Note |
