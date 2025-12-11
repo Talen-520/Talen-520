@@ -7,9 +7,8 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=Talen-520&theme=flat&no-frame=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophies.vercel.app/?username=Talen-520&theme=chalk&no-frame=true&column=5" alt="GitHub Trophies" />
 </p>
-
 
 
 ### Featured Projects
