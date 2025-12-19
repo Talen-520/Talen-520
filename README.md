@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi, I'm Tao Hu</h2>
 <div align="center">
-    <p> Looking Junior SWE opportunities</p>
+    <p> Looking Junior/Mid SWE opportunities</p>
     <p> Python | C++ | Typescript </p>
     <p>Django | FASTAPI | Tensorflow | Next.js | Ollama | Google Agent ADK | React</p>
 </div>
