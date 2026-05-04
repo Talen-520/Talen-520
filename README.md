@@ -27,17 +27,17 @@ I design and build intelligent products with Python, TypeScript, modern web fram
 
 ## Tech Stack
 
-**🐍 Languages**
+**Languages**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,ts" />
 </p>
 
-**🧩 Frameworks & Libraries**
+**Frameworks & Libraries**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=django,fastapi,react,nextjs" />
 </p>
 
-**🤖 AI / ML & Agents**
+**AI / ML & Agents**
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -46,7 +46,7 @@ I design and build intelligent products with Python, TypeScript, modern web fram
   <img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-**🐳 DevOps & Tools**
+**DevOps & Tools**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,git" />
 </p>
