@@ -68,7 +68,7 @@ I design and build intelligent products with Python, TypeScript, modern web fram
 | [**StockAgent**](https://www.rabrisai.com/) | AI-powered investment assistant | Python, TypeScript |
 | [**Qdrant-Local-RAG**](https://github.com/Talen-520/Qdrant-Local-RAG) | Local RAG web app with vector search | Python, TypeScript |
 | [**Multi-Agent-Finance-System**](https://github.com/Talen-520/Muti-Agent-Finance-System) | Multi-agent finance workflow | Python, Google ADK |
-| [**TechTaoHu**](https://dev.rabrisai.com/) | Personal portfolio website | JavaScript, Vite |
+| [**Portfolio**](https://dev.rabrisai.com/) | Personal portfolio website | JavaScript, Vite |
 | [**Little Lemon Booking**](https://github.com/Talen-520/littlelemon) | Restaurant reservation system | Python |
 
 ---
