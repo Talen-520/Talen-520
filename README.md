@@ -4,6 +4,8 @@
 
 ### Software Engineer | AI Apps | Full-Stack Development
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+AI-powered+products;Full-Stack+%7C+Backend+%7C+LLM+Workflows;Open+to+Junior+%2F+Mid-Level+SWE+Roles;Based+in+New+York)](https://git.io/typing-svg)
+
 I design and build intelligent products with Python, TypeScript, modern web frameworks, and LLM workflows.
 
 <br/>
