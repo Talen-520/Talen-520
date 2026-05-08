@@ -80,9 +80,20 @@ I design and build intelligent products with Python, TypeScript, modern web fram
 ---
 
 ## Certifications
-- [DeepLearning.AI TensorFlow Developer](https://www.coursera.org/account/accomplishments/professional-cert/JN6YURYEHD25)
-- [Meta Back-End Developer](https://www.credly.com/badges/2366cc64-675f-4f23-a45e-ede187918c75/linked_in_profile)
-- [AWS Cloud Practitioner](https://www.credly.com/badges/4b3c22ba-439c-41ee-95cd-7b93dc72e519/linked_in_profile)
+
+<p>
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/JN6YURYEHD25">
+    <img src="https://img.shields.io/badge/DeepLearning.AI-TensorFlow%20Developer-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/2366cc64-675f-4f23-a45e-ede187918c75/linked_in_profile">
+    <img src="https://img.shields.io/badge/Meta-Back--End%20Developer-0467DF?style=flat-square&logo=meta&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/badges/4b3c22ba-439c-41ee-95cd-7b93dc72e519/linked_in_profile">
+    <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  </a>
+</p>
 
 ---
 
