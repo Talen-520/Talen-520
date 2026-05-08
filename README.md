@@ -28,28 +28,34 @@ I design and build intelligent products with Python, TypeScript, modern web fram
 ## Tech Stack
 
 **Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,ts" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,rust" />
 </p>
 
 **Frameworks & Libraries**
-<p align="left">
+
+<p>
   <img src="https://skillicons.dev/icons?i=django,fastapi,react,nextjs" />
 </p>
 
 **AI / ML & Agents**
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/ComfyUI-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/ComfyUI-000000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-CC785C?style=flat-square&logoColor=white" />
 </p>
 
-**DevOps & Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git" />
+**DevOps & Cloud**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,aws,vercel" />
 </p>
+
 
 ---
 
