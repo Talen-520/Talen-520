@@ -22,7 +22,6 @@ I build production-ready AI applications with **Python**, **TypeScript**, **Fast
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/Open%20to-Junior%20%2F%20Mid--Level%20SWE-success?style=flat-square" />
 <img src="https://img.shields.io/badge/Focus-AI%20Apps%20%7C%20Agents%20%7C%20Backend-informational?style=flat-square" />
 <img src="https://img.shields.io/badge/Location-New%20York-orange?style=flat-square" />
 
