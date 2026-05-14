@@ -4,7 +4,7 @@
 
 ### Software Engineer · AI Applications · Agent workflow / Full-Stack
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=16\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=620\&lines=Building+AI-powered+products;Backend+%7C+Full-Stack+%7C+LLM+Workflows;Open+to+Junior+%2F+Mid-Level+Software+Engineer+Roles;Based+in+New+York)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=16\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=620\&lines=Building+AI-powered+products;Backend+%7C+Full-Stack+%7C+LLM+Workflows;Open+to+Software+Engineer+Roles;Based+in+New+York)](https://git.io/typing-svg)
 
 I build production-ready AI applications with **Python**, **TypeScript**, **FastAPI**, **Next.js**, and modern LLM / agent workflows.
 
