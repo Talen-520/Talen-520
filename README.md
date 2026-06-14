@@ -124,7 +124,6 @@ Voice agents   → real-time voice interaction, tool calling, business automatio
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Talen-520&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talen-520&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
