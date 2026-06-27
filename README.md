@@ -122,22 +122,9 @@ Voice agents   → real-time voice interaction, tool calling, business automatio
 
 ## GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Talen-520&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophies.vercel.app/?username=Talen-520&theme=tokyonight&no-frame=true&column=5" alt="GitHub Trophies" />
 </p>
 
----
 
-<div align="center">
-
-### Let’s build useful AI products.
-
-<a href="https://www.linkedin.com/in/tao-hu-ny/">
-  <img src="https://img.shields.io/badge/Contact%20Me-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
